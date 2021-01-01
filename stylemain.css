@@ -1,0 +1,17 @@
+.dropdown-item{
+    color: whitesmoke;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    transition-delay: 0s, 0s, 0.5s;
+}
+.dropdown-menu{
+    margin: 0;
+}
+.dropright:hover>.dropdown-menu{
+    display: block;
+}
+.caro{
+    padding-right: 0%;
+    padding-left: 0%;
+}
